@@ -16,7 +16,7 @@
 Install package from PyPi: (current version is 6 alpha of 1.0.0)
 
 ```sh
-pip install vk.py==1.0.0a6 -U
+pip install vk.py-1.0.0a6==1.0.0 -U
 ```
 
 Warning: this version really unstable and not recommended to use in production.
