@@ -12,7 +12,7 @@
 
 
 
-### 🏠 [Homepage](github.com/prostomarkeloff/vk.py)
+### 🏠 [Homepage](https://github.com/Cl0ckHvH/vk.py-1.0.0a6)
 
 
 ## Install
@@ -80,8 +80,6 @@ And many other libraries...
 
 This is only bot library? - No, this library could be used for acessing userapi or botapi without any troubles.
 
-Where i can find the docs? - [Check it](https://prostomarkeloff.github.io/vk.py).
-
 How to use it? - You may check docs or see our [examples](./examples).
 
 Why do you do it? - We are interesting to create the most used and easy-to-use library for Python.
@@ -90,14 +88,14 @@ When `1.0.0` will be released? - We don't know. We hope that it's moment will co
 
 ## Author
 
-👤 **prostomarkeloff**
+👤 **Cl0ckHvH**
 
-* Github: [@prostomarkeloff](https://github.com/prostomarkeloff)
+* Github: [@Cl0ckHvH](https://github.com/Cl0ckHvH)
 
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/prostomarkeloff/vk.py/issues).
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/Cl0ckHvH/vk.py-1.0.0a6/issues).
 Also you can check your [contributors guide](./CONTRIBUTING.md).
 
 [Our contributors](./CONTRIBUTORS.txt).
@@ -108,6 +106,6 @@ Give a ⭐️ if this project helped you!
 
 ## 📝 License
 
-Copyright © 2019 [prostomarkeloff](https://github.com/prostomarkeloff).<br />
-This project is [MIT](https://github.com/prostomarkeloff/vk.py/blob/master/LICENSE) licensed.
+Copyright © 2020 [Cl0ckHvH](https://github.com/Cl0ckHvH).<br />
+This project is [MIT](https://github.com/Cl0ckHvH/vk.py-1.0.0a6/blob/master/LICENSE) licensed.
 
