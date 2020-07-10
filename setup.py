@@ -43,7 +43,7 @@ setup_kwargs = {
     'name': 'vk.py-1.0.0a6',
     'version': '1.0.0',
     'description': 'Extremely-fast, easy-to-use, ready for production. The asyncio based library for Python and Humans written to be efficient and reliable.',
-    'long_description': 'Nothing here',
+    'long_description': 'Reupload vk.py, which the deleted on pypi and github',
     'author': 'Cl0ckHvH',
     'author_email': None,
     'url': 'https://github.com/Cl0ckHvH/vk.py-1.0.0a6',
